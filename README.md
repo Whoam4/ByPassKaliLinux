@@ -18,7 +18,8 @@
   
    ![Línea de configuración del kernel](foto2.png)
 
-   Dentro de esta línea, busca la sección que dice `“ro quiet splash“` y cámbiala por: `“rw quiet splash \               
+   Dentro de esta línea, busca la sección que dice `“ro quiet splash“` y cámbiala por:
+    `“rw quiet splash \               
 init=/bin/bash“`               *OJO! Al salto de linea*
 
 ---

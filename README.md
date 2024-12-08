@@ -12,7 +12,7 @@ Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en 
 ---
 
 2. Localiza la línea que comienza con `Linux /boot/vmlinuz`.
-3.  
+  
    ![Línea de configuración del kernel](foto2.png)
 
    Dentro de esta línea, busca la sección que dice `ro quiet splash` y cámbiala por: `rw quiet splash \               

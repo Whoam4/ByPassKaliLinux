@@ -1,6 +1,9 @@
 # Bypass o Recuperación de Contraseña en Kali Linux 2024
 
-Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en Kali Linux 2024 en caso de que la hayas olvidado.
+ES /  -Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en Kali Linux 2024 en caso de que la hayas olvidado.
+
+
+EN /  -Kali bypass, This tutorial will guide you step by step to recover or change the password in Kali Linux 2024 in case you have forgotten it.
 
 ## 1. Inicio
 

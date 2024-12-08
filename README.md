@@ -7,7 +7,7 @@ Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en 
 1. Abre Kali Linux y espera hasta que aparezca el GRUB.  
    Cuando estés en el menú del GRUB, presiona la tecla **`e`**.
    
-   ![GRUB después de presionar "e"](foto1.png)
+   ![GRUB después de presionar ""e""](foto1.png)
 
 ---
 

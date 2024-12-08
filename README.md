@@ -21,7 +21,8 @@
    Dentro de esta línea, busca la sección que dice `“ro quiet splash“` y cámbiala por:
 
     “rw quiet splash \               
-init=/bin/bash“                               **OJO! Al salto de linea**
+init=/bin/bash“                              Hola &nbsp;&nbsp;&nbsp;&nbsp;  **OJO! Al salto de linea**
+
 
  
 ---

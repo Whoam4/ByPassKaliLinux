@@ -8,18 +8,18 @@
 ## 1. Inicio
 
 1. Abre Kali Linux y espera hasta que aparezca el GRUB.  
-   Cuando estés en el menú del GRUB, presiona la tecla **`e`**.
+   Cuando estés en el menú del GRUB, presiona la tecla **`“e“`**.
    
    ![GRUB después de presionar "e"](foto1.png)
 
 ---
 
-2. Localiza la línea que comienza con `Linux /boot/vmlinuz`.
+2. Localiza la línea que comienza con `“Linux /boot/vmlinuz“`.
   
    ![Línea de configuración del kernel](foto2.png)
 
-   Dentro de esta línea, busca la sección que dice `ro quiet splash` y cámbiala por: `rw quiet splash \               
-init=/bin/bash`               *OJO! Al salto de linea*
+   Dentro de esta línea, busca la sección que dice `“ro quiet splash“` y cámbiala por: `“rw quiet splash \               
+init=/bin/bash“`               *OJO! Al salto de linea*
 
 ---
 

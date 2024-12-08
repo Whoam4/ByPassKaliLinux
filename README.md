@@ -27,7 +27,7 @@ init=/bin/bash“                              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
  
 ---
 
-3.Pulsamos `“Control X`“ y veriamos que se nos ha lanzado una BASH como ROOT
+3.Pulsamos `“Control X`“ y veriamos que se nos ha lanzado una **BASH** como **ROOT**
 
    ![Bash como Root](foto4.png)
 

@@ -23,19 +23,19 @@ init=/bin/bash`               *OJO! Al salto de linea*
 
 ---
 
-3.Pulsamos “Control X “ y veriamos que se nos ha lanzado una BASH como ROOT
+3.Pulsamos `“Control X`“ y veriamos que se nos ha lanzado una BASH como ROOT
 
    ![Bash como Root](foto4.png)
 
 ---
 
-4.Ahora vamos a cambiarle la contraseña al usuario “Kali”
-Usamos “Passwd kali”
-Os saldra “New password” poneis una contraseña y os saldra para confirmarla
+4.Ahora vamos a cambiarle la contraseña al usuario `“Kali”`
+Usamos `“Passwd kali”`
+Os saldra `“New password”` poneis una contraseña y os saldra para confirmarla
 
  ![Passwd nueva](foto5.png)
 
 ---
  
-5. ### Por ultimo “reboot -f “ para aplicar el reinicio.
+5. ### Por ultimo `“reboot -f“` para aplicar el reinicio.
    

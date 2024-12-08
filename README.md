@@ -21,9 +21,9 @@
    Dentro de esta línea, busca la sección que dice `“ro quiet splash“` y cámbiala por:
 
     “rw quiet splash \               
-init=/bin/bash“             
+init=/bin/bash“                               *OJO! Al salto de linea*
 
- *OJO! Al salto de linea*
+ 
 ---
 
 3.Pulsamos `“Control X`“ y veriamos que se nos ha lanzado una BASH como ROOT

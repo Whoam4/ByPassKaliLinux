@@ -34,6 +34,6 @@ Os saldra “New password” poneis una contraseña y os saldra para confirmarla
 
 ---
  
-Y por ultimo “reboot -f “ para aplicar el reinicio.
-   ```bash
+5. ### Por ultimo “reboot -f “ para aplicar el reinicio.
+   
    

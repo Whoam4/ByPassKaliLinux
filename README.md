@@ -10,7 +10,18 @@ Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en 
 
 2. Localiza la línea que comienza con `Linux /boot/vmlinuz`.  
    ![Línea de configuración del kernel](ruta/foto2.png)  
-   Dentro de esta línea, busca la sección que dice `ro quiet splash` y cámbiala por:
+   Dentro de esta línea, busca la sección que dice `ro quiet splash` y cámbiala por: `rw quiet splash \               
+init=/bin/bash`            *OJO! Al salto de linea*
+
+3.pulsamos “Control X “ y veriamos que se nos ha lanzado una BASH como ROOT
+   ![Bash como Root](ruta/foto3.png)
+4.Ahora vamos a cambiarle la contraseña al usuario “Kali”
+Usamos “Passwd kali”
+Os saldra “New password” poneis una contraseña y os saldra para confirmarla
+ ![Passwd nueva](ruta/foto4.png)
+ 
+Y por ultimo “reboot -f “ para aplicar el reinicio.
+
 
    ```bash
    rw quiet splash \

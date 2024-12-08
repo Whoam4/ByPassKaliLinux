@@ -25,7 +25,7 @@ init=/bin/bash`               *OJO! Al salto de linea*
 
 3.Pulsamos “Control X “ y veriamos que se nos ha lanzado una BASH como ROOT
 
-   ![Bash como Root](foto3.png)
+   ![Bash como Root](foto4.png)
 
 ---
 
@@ -33,7 +33,7 @@ init=/bin/bash`               *OJO! Al salto de linea*
 Usamos “Passwd kali”
 Os saldra “New password” poneis una contraseña y os saldra para confirmarla
 
- ![Passwd nueva](foto4.png)
+ ![Passwd nueva](foto5.png)
 
 ---
  

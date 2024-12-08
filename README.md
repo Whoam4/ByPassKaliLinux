@@ -25,6 +25,7 @@ init=/bin/bash`            *OJO! Al salto de linea*
 4.Ahora vamos a cambiarle la contraseña al usuario “Kali”
 Usamos “Passwd kali”
 Os saldra “New password” poneis una contraseña y os saldra para confirmarla
+
  ![Passwd nueva](foto4.png)
 
 ---

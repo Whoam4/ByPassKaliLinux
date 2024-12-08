@@ -8,11 +8,14 @@ Este tutorial te guiará paso a paso para recuperar o cambiar la contraseña en 
    Cuando estés en el menú del GRUB, presiona la tecla **`e`**.  
    ![GRUB después de presionar "e"](foto1.png)
 
+---
+
 2. Localiza la línea que comienza con `Linux /boot/vmlinuz`.  
    ![Línea de configuración del kernel](foto2.png)  
    Dentro de esta línea, busca la sección que dice `ro quiet splash` y cámbiala por: `rw quiet splash \               
 init=/bin/bash`            *OJO! Al salto de linea*
 
+---
 
 3.pulsamos “Control X “ y veriamos que se nos ha lanzado una BASH como ROOT
    ![Bash como Root](foto3.png)
